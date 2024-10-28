@@ -10,7 +10,7 @@
   
 - 😄 Pronouns: ... he/him
   
-- ⚡ Fun fact: ... Adapative by nature and also by passionate 
+- ⚡ Fun fact: ... Adapative by nature and also by passion
 
 
 
