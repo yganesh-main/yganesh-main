@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yganesh-main
   
-- 👀 I’m interested in "Exploring advancements in Information Systems, Cloud Computing, and Data Analytics. Passionate about implementing solutions to the world".
+- 👀 I’m interested in "Exploring advancements in Business Analysis, UI/UX, Cloud Computing, and Data Analytics. Passionate about implementing solutions to the world".
   
 - 🌱 I’m currently learning ..."Diving deeper into AWS Cloud services, and honing my skills in data science and visualizations with Power BI".
   
